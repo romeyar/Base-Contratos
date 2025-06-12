@@ -1,0 +1,4 @@
+INSERT INTO DataWareHouse.dbo.DIM_Areas
+(GERENCIA_AREA)
+SELECT DISTINCT GERENCIA_AREA
+FROM DL_Contratos.dbo.DL_Contratos 

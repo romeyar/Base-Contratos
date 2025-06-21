@@ -12,7 +12,7 @@ El DashBoard cuenta con 2 hojas, en la primera se busca mostrar un resumen gener
 8. Promedio de honorarios mensuales.
 9. Honorarios mensuales MAX y MIN.
 10. Botón para borrar filtros. (Esquina superior derecha)
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](Hoja1_Resumen.jpg)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](Hoja_Resumen.jpg)
 ## 2. Detalle
 En la segunda hoja encontramos información detallada de los contratistas, donde lo relevante es:
 1. Tabla de información de de datos basicos de contratistas (Nombre contratista, numero de documento, correo electronico y profesión).

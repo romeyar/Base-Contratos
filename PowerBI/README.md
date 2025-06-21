@@ -20,3 +20,4 @@ En la segunda hoja encontramos información detallada de los contratistas, donde
 3. Histograma de edades.
 4. Top 5 supervisores con mayor numero de contratos supervisados.
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](Hoja2_Detalle.jpg)
+
